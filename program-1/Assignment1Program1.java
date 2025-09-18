@@ -34,6 +34,7 @@ public class Assignment1Program1 {
     int randomNumber = generator.nextInt(32,16385);
   
     //Problem 5: Concatenation of answers from problems 2-4
+    System.out.println("Concatenation:");
     System.out.print(celsius);
     System.out.print(word.charAt(3));
     System.out.print(word.charAt(2));
