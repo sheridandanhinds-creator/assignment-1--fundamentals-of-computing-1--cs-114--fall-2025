@@ -4,14 +4,14 @@ public class Assignment1Program1 {
   public static void main(String[] args) {
     //Problem 1: Prints out my initials in large block letters
     System.out.println("  S S S S S S  " + "\t\tH H H        H H H");
-    System.out.println("S S S S S S S S" + "\t\tH H H        H H H");
+    System.out.println("S S S   S S S S" + "\t\tH H H        H H H");
     System.out.println("S S S" + "\t\t\tH H H        H H H");
-    System.out.println("S S S" + "\t\t\tH H H        H H H");
+    System.out.println("S S S S" + "\t\t\tH H H        H H H");
     System.out.println("S S S S S S S  " + "\t\tH H H H H H H H HH");
     System.out.println("  S S S S S S S" + "\t\tH H H H H H H H HH");
     System.out.println("\t  S S S" + "\t\tH H H        H H H");
     System.out.println("\t  S S S" + "\t\tH H H        H H H");
-    System.out.println("S S S S S S S S" + "\t\tH H H        H H H");
+    System.out.println("S S S   S S S S" + "\t\tH H H        H H H");
     System.out.println("  S S S S S S  " + "\t\tH H H        H H H");
 
     //Problem 2: Reverses three middle characters
