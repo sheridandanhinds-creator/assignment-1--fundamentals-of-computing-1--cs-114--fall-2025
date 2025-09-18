@@ -29,7 +29,7 @@ public class Assignment1Program1 {
     scan.close();
 
     //Problem 4: Generates and saves random number between 32 – 16,384
-    System.out.println("Random number generated:");
+    System.out.println("Random number generated.");
     Random generator = new Random();
     int randomNumber = generator.nextInt(32,16385);
   
